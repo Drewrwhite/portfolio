@@ -1,16 +1,21 @@
 .jumbotron {
   background-size: auto;
-  background-color: darkslateblue;
+  background-color: #949e99;
 
 }
 
 .card {
-  background-color: lightsteelblue;
+  background-color: #92a6be;
   
 }
 
+p {
+  text-align: justify;
+
+}
+
 img {
-  width: 310px;
+  width: 320px;
   height: 380px;
   border-radius: 20%;
   margin: auto;
