@@ -17,7 +17,7 @@ _Portfolio Landing Page with linked projects, about me, steps to success contact
 
 ## Setup/Installation Requirements
 
-- _Clone this repository to your desktop_
+- _Clone this with command `git clone https://github.com/Drewrwhite/portfolio.git`_
 - _Navigate to the top level of the directory_
 - _Open index.html in your browser_
 
@@ -28,5 +28,7 @@ _Portfolio Landing Page with linked projects, about me, steps to success contact
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+_If you find any issues, please reach out at: **d.white0002@gmail.com**._
 
 Copyright (c) _2022_ _Drew White_
