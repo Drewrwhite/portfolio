@@ -1,8 +1,20 @@
 .jumbotron {
+  color: #6F605B;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
   background-size: auto;
   background-color: #949e99;
 
+}
+
+#content {
+  position: relative;
+}
+#content img {
+  position: absolute;
+  top: -150px;
+  right: 80px;
+  width: 180px;
+  height: 180px;
 }
 
 .card {
