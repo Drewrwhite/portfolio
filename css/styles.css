@@ -43,3 +43,7 @@ img {
   height: 400px;
   border-radius: 15px;
 }
+
+.highlight {
+  color: rgb(14, 79, 60);
+}
