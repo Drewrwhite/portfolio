@@ -13,7 +13,11 @@
 
 ## Description
 
-_Portfolio Landing Page with linked projects, about me, steps to success contact, and quote section._
+_Portfolio Landing Page with linked projects, about me, steps to success, contact, and quote section._
+
+## Link to GitHub Pages
+
+[https://drewrwhite.github.io/portfolio/](https://drewrwhite.github.io/portfolio/)
 
 ## Setup/Installation Requirements
 
