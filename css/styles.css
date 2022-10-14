@@ -32,10 +32,10 @@ p {
 
 }
 
-img {
+.about {
   width: 320px;
   height: 380px;
-  border-radius: 20%;
+  border-radius: 15%;
   margin: auto;
   display: block;
 }
@@ -91,4 +91,9 @@ img {
 .fa-instagram {
   background: #125688;
   color: white;
+}
+
+.blockquote {
+  color: #6F605B;
+
 }
