@@ -31,7 +31,7 @@ _Portfolio Landing Page with linked projects, about me, steps to success, contac
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](./license.txt)
 
 _If you find any issues, please reach out at: **d.white0002@gmail.com**._
 
